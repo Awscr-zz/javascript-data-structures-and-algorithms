@@ -1,5 +1,5 @@
 Frequency Counter Pattern
-- Time complexity = O(n)
+- Time complexity = O(N)
 - Not actually called "Frequency Counter"
 - Uses Objects or sets to collect values/frequencies of values
 - Can often avoid the need fo nested loops or O(n^2) operations with arrays/strings

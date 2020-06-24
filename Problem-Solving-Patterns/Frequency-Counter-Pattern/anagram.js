@@ -1,10 +1,10 @@
-/*
-Anagram - Frequency Counter Pattern
+/* Anagram - Frequency Counter Pattern
 
-Instructions: Given 2 strings, write a function to determine if the 2nd string is an anagram of the 1st. An anagram is a word,
-phrase, or name formed by rearranging the letters of another, such as cinema, formed from iceman.
-*/
+Instructions: 
+- Given 2 strings, write a function to determine if the 2nd string is an anagram of the 1st. 
+- An anagram is a word, phrase, or name formed by rearranging the letters of another, such as cinema, formed from iceman.*/
 
+// Solution Using the Frequency Counter Pattern
 function validAnigram(str1, str2) {
   if (str1.length !== str2.length) return false;
 

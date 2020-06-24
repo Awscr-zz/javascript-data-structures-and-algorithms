@@ -1,0 +1,4 @@
+Divide and Conquer Pattern
+- Involves dividing a data set into smaller chunks and then repeating a process with a subset of data
+- Can tremendously decrease time complexity
+    E.G = Binary Search
