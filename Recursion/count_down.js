@@ -1,8 +1,6 @@
-/*
-Count Down - Recursion
+/*Count Down - Recursion
 
-Instructions: Create a function countDown which accepts a number and counts from that number down to 1
-*/
+Instructions: Create a function countDown which accepts a number and counts from that number down to 1 */
 
 function countDown(num) {
   if (num === 0) {

@@ -1,8 +1,6 @@
-/*
-Helper method - Recursion
+/* Helper method - Recursion
 
-Instructions: Implement a helper method inside a function collectOddValues which accepts an array of numbers and returns 
-*/
+Instructions: Implement a helper method inside a function collectOddValues which accepts an array of numbers and returns */
 
 function collectOddValues(nums) {
   let result = [];
